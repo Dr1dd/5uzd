@@ -1,0 +1,18 @@
+Kandidatai á Prezidentus sutaria, kad pajamø nelygybë Lietuvoje yra didelë problema.
+ Taèiau kandidatø nuomonës iðsiskyrë dël Prezidento galimybiø maþinti ðià nelygybæ – Gitanas Nausëda teigë,
+ kad prezidento galios ðioje srityje nëra tik formalumas, uþ kurio jis slëptøsi, Ingrida Ðimonytë teigë, 
+kad uþ tai pirmiausia atsakinga Vyriausybë. Ekonomistas Gitanas. Nausëda akcentavo, kad bûdamas Prezidentu nesislëptø uþ formuluotës, kad vidaus politika nëra Prezidento pagrindinë pareiga. Jis teigë, kad pensijos ir atlyginimai turi bûti didinami pamatuotai, bet sparèiau nei tai vyksta dabar, o ðeimos turëtø bûti skatinamos
+ tiesioginëmis iðmokomis.
+Ekonomistas Gitanas. Nausëda akcentavo, kad bûdamas Prezidentu nesislëptø uþ formuluotës, kad vidaus
+ politika nëra Prezidento pagrindinë pareiga. Jis teigë, kad pensijos ir atlyginimai turi bûti didinami pamatuotai, bet sparèiau nei tai vyksta dabar, o ðeimos turëtø bûti skatinamos tiesioginëmis
+ iðmokomis.
+Ðiandieniniame pasaulyje þmogø kasdien uþlieja milþiniðkas informacijos srautas ir darosi
+
+ sunku atskirti patikimà informacijà nuo klaidinanèios. Anot Vilniaus universiteto (VU)
+ Komunikacijos fakulteto analitinës þurnalistikos magistrantûros studijø programos komiteto pirmininko doc. dr. Deimanto Jastramskio, bûtent dël kasdieninës informacijos lavinos þurnalistai turi labai
+ rimtà iððûká – kaip visà informacijà apdoroti ir paversti jà þmonëms suprantama, o kartu ir patikima? https://github.com/objprog/paskaitos2019/wiki/5-oji-u%C5%BEduotis
+Suskaièiuokite, kiek kartø kiekvienas skirtingas þodis pasikartoja Jûsø tekste. Tekstà
+ galite paimti ið bet kur, pvz.: www.delfi.lt naujiena ar Hario Poterio knygos puslapis/fragmentas. Tuomet realizacijos output'e (iðoriniame faile) iðveskite skirtingus þodþius (kableliai, taðkai ir kiti skyrybos þenklai nëra þodþiu dalis!), kurie pasikartojo daþniau negu 1 kartà, o taip pat ir count'erá, nurodantá kiek kartø konkretus þodis pasikartojo.
+Skaitykite daugiau: https://www.delfi.lt/news/daily/lithuania/paskutiniuose-debatuose-asmeniskas-klausimas-apie-dieva-ir-netiketas-simonytes-atsakymas-apie-uzknistus-mokytojus.d?id=81273565
+http://naujienos.vu.lt/analitine-zurnalistika-aktuali-kaip-niekad-anksciau/
+http://naujienos.vu.lt/skelbiama-rinkimu-kampanijos-i-vu-taryba-pradzia/
