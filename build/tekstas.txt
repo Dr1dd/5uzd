@@ -1,6 +1,6 @@
 Kandidatai į Prezidentus sutaria, kad pajamų nelygybė Lietuvoje yra didelė problema.
- Tačiau kandidatų nuomonės išsiskyrė dėl Prezidento galimybių mažinti šią nelygybę – Gitanas Nausėda teigė,
- kad prezidento galios šioje srityje nėra tik formalumas, už kurio jis slėptųsi, Ingrida Šimonytė teigė, 
+Tačiau kandidatų nuomonės išsiskyrė dėl Prezidento galimybių mažinti šią nelygybę - Gitanas Nausėda teigė,
+  kad prezidento galios šioje srityje nėra tik formalumas, už kurio jis slėptųsi, Ingrida Šimonytė teigė,
 kad už tai pirmiausia atsakinga Vyriausybė. Ekonomistas Gitanas. Nausėda akcentavo, kad būdamas Prezidentu nesislėptų už formuluotės, kad vidaus politika nėra Prezidento pagrindinė pareiga. Jis teigė, kad pensijos ir atlyginimai turi būti didinami pamatuotai, bet sparčiau nei tai vyksta dabar, o šeimos turėtų būti skatinamos
  tiesioginėmis išmokomis.
 Ekonomistas Gitanas. Nausėda akcentavo, kad būdamas Prezidentu nesislėptų už formuluotės, kad vidaus
@@ -10,7 +10,7 @@ Ekonomistas Gitanas. Nausėda akcentavo, kad būdamas Prezidentu nesislėptų u�
 
  sunku atskirti patikimą informaciją nuo klaidinančios. Anot Vilniaus universiteto (VU)
  Komunikacijos fakulteto analitinės žurnalistikos magistrantūros studijų programos komiteto pirmininko doc. dr. Deimanto Jastramskio, būtent dėl kasdieninės informacijos lavinos žurnalistai turi labai
- rimtą iššūkį – kaip visą informaciją apdoroti ir paversti ją žmonėms suprantama, o kartu ir patikima? https://github.com/objprog/paskaitos2019/wiki/5-oji-u%C5%BEduotis
+rimtą iššūkį kaip visą informaciją apdoroti ir paversti ją žmonėms suprantama, o kartu ir patikima? https://github.com/objprog/paskaitos2019/wiki/5-oji-u%C5%BEduotis
 Suskaičiuokite, kiek kartų kiekvienas skirtingas žodis pasikartoja Jūsų tekste. Tekstą
  galite paimti iš bet kur, pvz.: www.delfi.lt naujiena ar Hario Poterio knygos puslapis/fragmentas. Tuomet realizacijos output'e (išoriniame faile) išveskite skirtingus žodžius (kableliai, taškai ir kiti skyrybos ženklai nėra žodžiu dalis!), kurie pasikartojo dažniau negu 1 kartą, o taip pat ir count'erį, nurodantį kiek kartų konkretus žodis pasikartojo.
 Skaitykite daugiau: https://www.delfi.lt/news/daily/lithuania/paskutiniuose-debatuose-asmeniskas-klausimas-apie-dieva-ir-netiketas-simonytes-atsakymas-apie-uzknistus-mokytojus.d?id=81273565

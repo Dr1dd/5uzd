@@ -6,8 +6,8 @@
 #include <vector>
 #include <algorithm>
 #include <iomanip>
-#include <locale>
 #include <cctype>
+#include <locale>
 using std::cout;
 using std::endl;
 class zdz{
@@ -17,7 +17,6 @@ private:
 
 };
 int main(){
-    setlocale(LC_ALL, "Lithuanian");
     std::multimap<std::string, int> tekstas;
     std::map<std::string, int> zodziai;
     std::map<int, std::string> URL;
@@ -44,8 +43,6 @@ int main(){
     }
     int count;
     std::ofstream fr("rezultatai.txt");
-    std::locale mylocale("");
-    fr.imbue(mylocale);
     std::multimap<std::string, int>::iterator itlow, itup;
     int gde = 0;
     for(auto it =  tekstas.cbegin(); it != tekstas.cend(); ++it){
