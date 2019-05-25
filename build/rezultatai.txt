@@ -1,43 +1,44 @@
 Zodis: Ekonomistas   pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: Gitanas.      pasikartojo 2 kartus, 4 6 eilutese 
+Zodis: Gitanas       pasikartojo 3 kartus, 2 4 6 eilutese 
 Zodis: Jis           pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: Nausëda       pasikartojo 3 kartus, 2 4 6 eilutese 
+Zodis: NausÄda       pasikartojo 3 kartus, 2 4 6 eilutese 
 Zodis: Prezidento    pasikartojo 3 kartus, 2 4 7 eilutese 
 Zodis: Prezidentu    pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: akcentavo,    pasikartojo 2 kartus, 4 6 eilutese 
+Zodis: akcentavo     pasikartojo 2 kartus, 4 6 eilutese 
 Zodis: atlyginimai   pasikartojo 2 kartus, 4 7 eilutese 
 Zodis: bet           pasikartojo 3 kartus, 4 7 15 eilutese 
-Zodis: bûdamas       pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: bûti          pasikartojo 4 kartus, 4 7 eilutese 
-Zodis: dabar,        pasikartojo 2 kartus, 4 7 eilutese 
+Zodis: bÅdamas       pasikartojo 2 kartus, 4 6 eilutese 
+Zodis: bÅti          pasikartojo 4 kartus, 4 7 eilutese 
+Zodis: dabar         pasikartojo 2 kartus, 4 7 eilutese 
 Zodis: didinami      pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: dël           pasikartojo 2 kartus, 2 12 eilutese 
-Zodis: formuluotës,  pasikartojo 2 kartus, 4 6 eilutese 
+Zodis: dÄl           pasikartojo 2 kartus, 2 12 eilutese 
+Zodis: formuluotÄs   pasikartojo 2 kartus, 4 6 eilutese 
 Zodis: informacijos  pasikartojo 2 kartus, 9 12 eilutese 
-Zodis: informacijà   pasikartojo 2 kartus, 11 13 eilutese 
+Zodis: informacijÄ   pasikartojo 2 kartus, 11 13 eilutese 
 Zodis: ir            pasikartojo 7 kartus, 4 7 9 13 15 eilutese 
 Zodis: kad           pasikartojo 9 kartus, 1 3 4 6 7 eilutese 
-Zodis: kartø         pasikartojo 2 kartus, 14 15 eilutese 
+Zodis: kartÅ         pasikartojo 2 kartus, 14 15 eilutese 
 Zodis: kiek          pasikartojo 2 kartus, 14 15 eilutese 
 Zodis: nei           pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: nesislëptø    pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: nëra          pasikartojo 4 kartus, 3 4 7 15 eilutese 
+Zodis: nesislÄptÅ    pasikartojo 2 kartus, 4 6 eilutese 
+Zodis: nÄra          pasikartojo 4 kartus, 3 4 7 15 eilutese 
 Zodis: o             pasikartojo 4 kartus, 4 7 13 15 eilutese 
-Zodis: pagrindinë    pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: pamatuotai,   pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: pareiga.      pasikartojo 2 kartus, 4 7 eilutese 
+Zodis: pagrindinÄ    pasikartojo 2 kartus, 4 7 eilutese 
+Zodis: pamatuotai    pasikartojo 2 kartus, 4 7 eilutese 
+Zodis: pareiga       pasikartojo 2 kartus, 4 7 eilutese 
+Zodis: pasikartojo   pasikartojo 2 kartus, 15 eilutese 
 Zodis: pensijos      pasikartojo 2 kartus, 4 7 eilutese 
 Zodis: politika      pasikartojo 2 kartus, 4 7 eilutese 
 Zodis: skatinamos    pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: sparèiau      pasikartojo 2 kartus, 4 7 eilutese 
+Zodis: sparÄiau      pasikartojo 2 kartus, 4 7 eilutese 
 Zodis: tai           pasikartojo 3 kartus, 4 7 eilutese 
-Zodis: teigë,        pasikartojo 4 kartus, 2 3 4 7 eilutese 
-Zodis: tiesioginëmis pasikartojo 2 kartus, 5 7 eilutese 
+Zodis: teigÄ         pasikartojo 4 kartus, 2 3 4 7 eilutese 
+Zodis: tiesioginÄmis pasikartojo 2 kartus, 5 7 eilutese 
 Zodis: turi          pasikartojo 3 kartus, 4 7 12 eilutese 
-Zodis: turëtø        pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: uş            pasikartojo 4 kartus, 3 4 6 eilutese 
+Zodis: turÄtÅ        pasikartojo 2 kartus, 4 7 eilutese 
+Zodis: uÅ            pasikartojo 4 kartus, 3 4 6 eilutese 
 Zodis: vidaus        pasikartojo 2 kartus, 4 6 eilutese 
 Zodis: vyksta        pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: –             pasikartojo 2 kartus, 2 13 eilutese 
-Zodis: ğeimos        pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: şodis         pasikartojo 2 kartus, 14 15 eilutese 
+Zodis: Åodis         pasikartojo 2 kartus, 14 15 eilutese 
+Zodis: Å¡eimos       pasikartojo 2 kartus, 4 7 eilutese 
+Zodis: â€            pasikartojo 2 kartus, 2 13 eilutese 

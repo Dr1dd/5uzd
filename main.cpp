@@ -6,6 +6,8 @@
 #include <vector>
 #include <algorithm>
 #include <iomanip>
+#include <locale>
+#include <cctype>
 using std::cout;
 using std::endl;
 class zdz{
@@ -19,10 +21,14 @@ int main(){
     std::multimap<std::string, int> tekstas;
     std::map<std::string, int> zodziai;
     std::map<int, std::string> URL;
+
     std::string zodis;
     std::string eilute;
+    std::string zodisRez;
+
     std::vector<zdz> numeris;
     zdz number;
+
     std::ifstream fd("tekstas.txt");
     if(fd.fail()) {
     cout << "Sis failas neegzistuoja" << endl;
@@ -32,11 +38,14 @@ int main(){
         lnsk++;
         std::stringstream ss(eilute);
         while(ss >> zodis){
+            zodis.erase (std::remove_if(zodis.begin(), zodis.end(), ::ispunct), zodis.end());
             tekstas.insert(std::pair<std::string,int>(zodis,lnsk));
         }
     }
     int count;
     std::ofstream fr("rezultatai.txt");
+    std::locale mylocale("");
+    fr.imbue(mylocale);
     std::multimap<std::string, int>::iterator itlow, itup;
     int gde = 0;
     for(auto it =  tekstas.cbegin(); it != tekstas.cend(); ++it){
