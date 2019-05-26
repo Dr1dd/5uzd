@@ -8,6 +8,7 @@
 #include <iomanip>
 #include <cctype>
 #include <locale>
+#include <regex>
 using std::cout;
 using std::endl;
 class zdz{
@@ -19,7 +20,7 @@ private:
 int main(){
     std::multimap<std::string, int> tekstas;
     std::map<std::string, int> zodziai;
-    std::map<int, std::string> URL;
+    std::map<std::string, int> URL;
 
     std::string zodis;
     std::string eilute;
@@ -27,6 +28,7 @@ int main(){
 
     std::vector<zdz> numeris;
     zdz number;
+
 
     std::ifstream fd("tekstas.txt");
     if(fd.fail()) {
@@ -37,14 +39,16 @@ int main(){
         lnsk++;
         std::stringstream ss(eilute);
         while(ss >> zodis){
+            if(std::regex_match(zodis, std::regex("[(http(s)?):\\/\\/(www\\.)?a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)") )){
+                URL.insert(std::pair<std::string,int>(zodis,lnsk));
+            }
             zodis.erase (std::remove_if(zodis.begin(), zodis.end(), ::ispunct), zodis.end());
             tekstas.insert(std::pair<std::string,int>(zodis,lnsk));
         }
     }
+    fd.close();
     int count;
-    std::ofstream fr("rezultatai.txt");
     std::multimap<std::string, int>::iterator itlow, itup;
-    int gde = 0;
     for(auto it =  tekstas.cbegin(); it != tekstas.cend(); ++it){
         number.eilNr.clear();
         if(tekstas.count(it->first) > 1) {
@@ -60,18 +64,26 @@ int main(){
             it++;
             }
             numeris.push_back(number);
-            gde++;
         }
         }
+
+    std::ofstream fr("rezultatai.txt");
+    
     auto iterator = numeris.begin();
     int y = 0;
     for(auto it = zodziai.cbegin(); it != zodziai.cend(); ++it){
-        fr << "Zodis: "  << std::left <<std::setw(13) <<it->first << std::setw(10) << " pasikartojo " << it->second << " kartus, ";
+        fr << "Zodis: "  << std::left <<std::setw(15) <<it->first << std::setw(10) << " pasikartojo " << it->second << " kartus, ";
                for(auto j = 0; j !=numeris[y].eilNr.size(); j++)
                    fr << numeris[y].eilNr[j]  <<" ";
         y++;
             fr<<"eilutese \n";
     }
+    fr << "\nRasti URL linkai: \n";
 
+    for(auto it = URL.begin(); it != URL.end(); ++it){
+        fr << it->first << ", eiluteje: " << it->second << endl;
+    }
+    
+    fr.close();
     return 0;
 }
