@@ -24,12 +24,16 @@ Jeigu randamas `,` ar koks nors kitas simbolis prie žodžio - jis yra ištrinam
 ![pic](https://imgur.com/JH6nFnc.png)
 `zodis` yra std::string tipo.
 
+
+
 ## 3. Url suradimas:
 ![pic](https://imgur.com/bPlP26K.png)
 
 Naudojama `<regex>` biblioteka (regular expression).
 Ieškoma `pattern'ų`, kurie yra tinkami tik url tipo linkams.
 
-Gauti rezultatai pvz.:
+## Gauti rezultatai pvz.:
 ![pic](https://imgur.com/mK8UgKc.png)
+![pic](https://imgur.com/wORdu7q.png)
+
 
