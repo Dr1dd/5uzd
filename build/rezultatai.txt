@@ -1,50 +1,50 @@
-Zodis: Ekonomistas     pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: Gitanas         pasikartojo 3 kartus, 2 4 6 eilutese 
-Zodis: Jis             pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: Nausėda        pasikartojo 3 kartus, 2 4 6 eilutese 
-Zodis: Prezidento      pasikartojo 3 kartus, 2 4 7 eilutese 
-Zodis: Prezidentu      pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: akcentavo       pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: atlyginimai     pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: bet             pasikartojo 3 kartus, 4 7 15 eilutese 
-Zodis: būdamas        pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: būti           pasikartojo 4 kartus, 4 7 eilutese 
-Zodis: dabar           pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: didinami        pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: dėl            pasikartojo 2 kartus, 2 12 eilutese 
-Zodis: formuluotės    pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: informacijos    pasikartojo 2 kartus, 9 12 eilutese 
-Zodis: informaciją    pasikartojo 2 kartus, 11 13 eilutese 
-Zodis: ir              pasikartojo 7 kartus, 4 7 9 13 15 eilutese 
-Zodis: kad             pasikartojo 9 kartus, 1 3 4 6 7 eilutese 
-Zodis: kartų          pasikartojo 2 kartus, 14 15 eilutese 
-Zodis: kiek            pasikartojo 2 kartus, 14 15 eilutese 
-Zodis: nei             pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: nesislėptų    pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: nėra           pasikartojo 4 kartus, 3 4 7 15 eilutese 
-Zodis: o               pasikartojo 4 kartus, 4 7 13 15 eilutese 
-Zodis: pagrindinė     pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: pamatuotai      pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: pareiga         pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: pasikartojo     pasikartojo 2 kartus, 15 eilutese 
-Zodis: pensijos        pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: politika        pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: skatinamos      pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: sparčiau       pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: tai             pasikartojo 3 kartus, 4 7 eilutese 
-Zodis: teigė          pasikartojo 4 kartus, 2 3 4 7 eilutese 
-Zodis: tiesioginėmis  pasikartojo 2 kartus, 5 7 eilutese 
-Zodis: turi            pasikartojo 3 kartus, 4 7 12 eilutese 
-Zodis: turėtų        pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: už             pasikartojo 4 kartus, 3 4 6 eilutese 
-Zodis: vidaus          pasikartojo 2 kartus, 4 6 eilutese 
-Zodis: vyksta          pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: šeimos         pasikartojo 2 kartus, 4 7 eilutese 
-Zodis: žodis          pasikartojo 2 kartus, 14 15 eilutese 
+Žodis: Ekonomistas     pasikartojo 2 kartus, 4 6 eilutėse 
+Žodis: Gitanas         pasikartojo 3 kartus, 2 4 6 eilutėse 
+Žodis: Jis             pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: Nausėda        pasikartojo 3 kartus, 2 4 6 eilutėse 
+Žodis: Prezidento      pasikartojo 3 kartus, 2 4 7 eilutėse 
+Žodis: Prezidentu      pasikartojo 2 kartus, 4 6 eilutėse 
+Žodis: akcentavo       pasikartojo 2 kartus, 4 6 eilutėse 
+Žodis: atlyginimai     pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: bet             pasikartojo 3 kartus, 4 7 15 eilutėse 
+Žodis: būdamas        pasikartojo 2 kartus, 4 6 eilutėse 
+Žodis: būti           pasikartojo 4 kartus, 4 7 eilutėse 
+Žodis: dabar           pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: didinami        pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: dėl            pasikartojo 2 kartus, 2 12 eilutėse 
+Žodis: formuluotės    pasikartojo 2 kartus, 4 6 eilutėse 
+Žodis: informacijos    pasikartojo 2 kartus, 9 12 eilutėse 
+Žodis: informaciją    pasikartojo 2 kartus, 11 13 eilutėse 
+Žodis: ir              pasikartojo 7 kartus, 4 7 9 13 15 eilutėse 
+Žodis: kad             pasikartojo 9 kartus, 1 3 4 6 7 eilutėse 
+Žodis: kartų          pasikartojo 2 kartus, 14 15 eilutėse 
+Žodis: kiek            pasikartojo 2 kartus, 14 15 eilutėse 
+Žodis: nei             pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: nesislėptų    pasikartojo 2 kartus, 4 6 eilutėse 
+Žodis: nėra           pasikartojo 4 kartus, 3 4 7 15 eilutėse 
+Žodis: o               pasikartojo 4 kartus, 4 7 13 15 eilutėse 
+Žodis: pagrindinė     pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: pamatuotai      pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: pareiga         pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: pasikartojo     pasikartojo 2 kartus, 15 eilutėse 
+Žodis: pensijos        pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: politika        pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: skatinamos      pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: sparčiau       pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: tai             pasikartojo 3 kartus, 4 7 eilutėse 
+Žodis: teigė          pasikartojo 4 kartus, 2 3 4 7 eilutėse 
+Žodis: tiesioginėmis  pasikartojo 2 kartus, 5 7 eilutėse 
+Žodis: turi            pasikartojo 3 kartus, 4 7 12 eilutėse 
+Žodis: turėtų        pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: už             pasikartojo 4 kartus, 3 4 6 eilutėse 
+Žodis: vidaus          pasikartojo 2 kartus, 4 6 eilutėse 
+Žodis: vyksta          pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: šeimos         pasikartojo 2 kartus, 4 7 eilutėse 
+Žodis: žodis          pasikartojo 2 kartus, 14 15 eilutėse 
 
 Rasti URL linkai: 
-http://naujienos.vu.lt/analitine-zurnalistika-aktuali-kaip-niekad-anksciau/, eiluteje: 17
-http://naujienos.vu.lt/skelbiama-rinkimu-kampanijos-i-vu-taryba-pradzia/, eiluteje: 18
-https://github.com/objprog/paskaitos2019/wiki/5-oji-u%C5%BEduotis, eiluteje: 13
-https://www.delfi.lt/news/daily/lithuania/paskutiniuose-debatuose-asmeniskas-klausimas-apie-dieva-ir-netiketas-simonytes-atsakymas-apie-uzknistus-mokytojus.d?id=81273565, eiluteje: 16
-www.delfi.lt, eiluteje: 15
+http://naujienos.vu.lt/analitine-zurnalistika-aktuali-kaip-niekad-anksciau/, eilutėje: 17
+http://naujienos.vu.lt/skelbiama-rinkimu-kampanijos-i-vu-taryba-pradzia/, eilutėje: 18
+https://github.com/objprog/paskaitos2019/wiki/5-oji-u%C5%BEduotis, eilutėje: 13
+https://www.delfi.lt/news/daily/lithuania/paskutiniuose-debatuose-asmeniskas-klausimas-apie-dieva-ir-netiketas-simonytes-atsakymas-apie-uzknistus-mokytojus.d?id=81273565, eilutėje: 16
+www.delfi.lt, eilutėje: 15

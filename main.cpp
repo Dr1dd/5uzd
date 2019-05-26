@@ -72,16 +72,16 @@ int main(){
     auto iterator = numeris.begin();
     int y = 0;
     for(auto it = zodziai.cbegin(); it != zodziai.cend(); ++it){
-        fr << "Zodis: "  << std::left <<std::setw(15) <<it->first << std::setw(10) << " pasikartojo " << it->second << " kartus, ";
+        fr << "Žodis: "  << std::left <<std::setw(15) <<it->first << std::setw(10) << " pasikartojo " << it->second << " kartus, ";
                for(auto j = 0; j !=numeris[y].eilNr.size(); j++)
                    fr << numeris[y].eilNr[j]  <<" ";
         y++;
-            fr<<"eilutese \n";
+            fr<<"eilutėse \n";
     }
     fr << "\nRasti URL linkai: \n";
 
     for(auto it = URL.begin(); it != URL.end(); ++it){
-        fr << it->first << ", eiluteje: " << it->second << endl;
+        fr << it->first << ", eilutėje: " << it->second << endl;
     }
     
     fr.close();
