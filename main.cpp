@@ -9,6 +9,7 @@
 #include <cctype>
 #include <locale>
 #include <regex>
+
 using std::cout;
 using std::endl;
 class zdz{
@@ -17,9 +18,15 @@ private:
         std::vector<int> eilNr;
 
 };
+struct comp {
+    bool operator() (const std::string& lhs, const std::string& rhs) const {
+        return stricmp(lhs.c_str(), rhs.c_str()) < 0;
+    }
+};
+
 int main(){
-    std::multimap<std::string, int> tekstas;
-    std::map<std::string, int> zodziai;
+    std::multimap<std::string, int, comp> tekstas;
+    std::map<std::string, int, comp> zodziai;
     std::map<std::string, int> URL;
 
     std::string zodis;
@@ -47,6 +54,7 @@ int main(){
         }
     }
     fd.close();
+
     int count;
     std::multimap<std::string, int>::iterator itlow, itup;
     for(auto it =  tekstas.cbegin(); it != tekstas.cend(); ++it){
