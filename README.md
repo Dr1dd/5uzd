@@ -44,7 +44,7 @@ while(ss >> zodis){
 ```
 
 Naudojama `<regex>` biblioteka (regular expression).
-Ieškoma `pattern'ų`, kurie yra tinkami tik url tipo linkams.
+Ieškoma formų (`pattern'ų`), kurie yra tinkami tik url tipo linkams.
 
 ## Gauti rezultatai pvz.:
 ![pic](https://imgur.com/mK8UgKc.png)
