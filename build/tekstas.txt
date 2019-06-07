@@ -13,6 +13,6 @@ Ekonomistas Gitanas. Nausėda akcentavo, kad būdamas Prezidentu nesislėptų u�
 rimtą iššūkį kaip visą informaciją apdoroti ir paversti ją žmonėms suprantama, o kartu ir patikima? https://github.com/objprog/paskaitos2019/wiki/5-oji-u%C5%BEduotis
 Suskaičiuokite, kiek kartų kiekvienas skirtingas žodis pasikartoja Jūsų tekste. Tekstą
  galite paimti iš bet kur, pvz.: www.delfi.lt naujiena ar Hario Poterio knygos puslapis/fragmentas. Tuomet realizacijos output'e (išoriniame faile) išveskite skirtingus žodžius (kableliai, taškai ir kiti skyrybos ženklai nėra žodžiu dalis!), kurie pasikartojo dažniau negu 1 kartą, o taip pat ir count'erį, nurodantį kiek kartų konkretus žodis pasikartojo.
-Skaitykite daugiau: https://www.delfi.lt/news/daily/lithuania/paskutiniuose-debatuose-asmeniskas-klausimas-apie-dieva-ir-netiketas-simonytes-atsakymas-apie-uzknistus-mokytojus.d?id=81273565
-http://naujienos.vu.lt/analitine-zurnalistika-aktuali-kaip-niekad-anksciau/
-http://naujienos.vu.lt/skelbiama-rinkimu-kampanijos-i-vu-taryba-pradzia/
+Skaitykite daugiau: https://www.amazon.com/Fullfun-Rechargeable-Wireless-Backlit-Optical/dp/B0784FKJHG
+http://naujienos.vu.lt/analitine-zurnalistika-aktuali-kaip-niekad-anksciau/,
+http://naujienos.vu.lt/skelbiama-rinkimu-kampanijos-i-vu-taryba-pradzia/.

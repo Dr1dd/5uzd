@@ -46,6 +46,7 @@ int main(){
         lnsk++;
         std::stringstream ss(eilute);
         while(ss >> zodis){
+            if(zodis[zodis.size()-1] == ',' || zodis[zodis.size()-1] == '.') zodis = zodis.substr(0, zodis.size()-1);
             if(std::regex_match(zodis, std::regex("[(http(s)?):\\/\\/(www\\.)?a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)") )){
                 URL.insert(std::pair<std::string,int>(zodis,lnsk));
             }
