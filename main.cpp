@@ -123,7 +123,7 @@ int main(){
     int linesLeft = 1;
     int linesRight = lnsk/2;
     int linesRightConst =lnsk/2;
-    int eilIlgis;
+    int eilIlgis = 0;
     while (linesLeft <= linesRightConst && linesLeft <= lnsk) {
             fr1 << linesLeft << " eilutėje esantys žodžiai: ";
             for (auto it = tekstas.cbegin(); it != tekstas.cend(); ++it) {
