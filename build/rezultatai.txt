@@ -1,47 +1,74 @@
+Žodžiai, kurie tekste pasikartoja 2 kartus:
+
 Žodis: akcentavo       pasikartojo 2 kartus, 4 6 eilutėse 
 Žodis: atlyginimai     pasikartojo 2 kartus, 4 7 eilutėse 
-Žodis: bet             pasikartojo 3 kartus, 4 7 15 eilutėse 
 Žodis: būdamas        pasikartojo 2 kartus, 4 6 eilutėse 
-Žodis: būti           pasikartojo 4 kartus, 4 7 eilutėse 
 Žodis: dabar           pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: didinami        pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: dėl            pasikartojo 2 kartus, 2 12 eilutėse 
 Žodis: Ekonomistas     pasikartojo 2 kartus, 4 6 eilutėse 
 Žodis: formuluotės    pasikartojo 2 kartus, 4 6 eilutėse 
-Žodis: Gitanas         pasikartojo 3 kartus, 2 4 6 eilutėse 
 Žodis: informacijos    pasikartojo 2 kartus, 9 12 eilutėse 
 Žodis: informaciją    pasikartojo 2 kartus, 11 13 eilutėse 
-Žodis: ir              pasikartojo 7 kartus, 4 7 9 13 15 eilutėse 
 Žodis: išmokomis      pasikartojo 2 kartus, 5 8 eilutėse 
-Žodis: jis             pasikartojo 3 kartus, 3 4 7 eilutėse 
-Žodis: kad             pasikartojo 9 kartus, 1 3 4 6 7 eilutėse 
 Žodis: kartų          pasikartojo 2 kartus, 14 15 eilutėse 
 Žodis: kiek            pasikartojo 2 kartus, 14 15 eilutėse 
-Žodis: Nausėda        pasikartojo 3 kartus, 2 4 6 eilutėse 
 Žodis: nei             pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: nesislėptų    pasikartojo 2 kartus, 4 6 eilutėse 
-Žodis: nėra           pasikartojo 4 kartus, 3 4 7 15 eilutėse 
-Žodis: o               pasikartojo 4 kartus, 4 7 13 15 eilutėse 
 Žodis: pagrindinė     pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: pamatuotai      pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: pareiga         pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: pasikartojo     pasikartojo 2 kartus, 15 eilutėse 
 Žodis: pensijos        pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: politika        pasikartojo 2 kartus, 4 7 eilutėse 
-Žodis: Prezidento      pasikartojo 4 kartus, 2 3 4 7 eilutėse 
 Žodis: Prezidentu      pasikartojo 2 kartus, 4 6 eilutėse 
 Žodis: skatinamos      pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: sparčiau       pasikartojo 2 kartus, 4 7 eilutėse 
-Žodis: tai             pasikartojo 3 kartus, 4 7 eilutėse 
-Žodis: teigė          pasikartojo 4 kartus, 2 3 4 7 eilutėse 
 Žodis: tiesioginėmis  pasikartojo 2 kartus, 5 7 eilutėse 
-Žodis: turi            pasikartojo 3 kartus, 4 7 12 eilutėse 
 Žodis: turėtų        pasikartojo 2 kartus, 4 7 eilutėse 
-Žodis: už             pasikartojo 4 kartus, 3 4 6 eilutėse 
 Žodis: vidaus          pasikartojo 2 kartus, 4 6 eilutėse 
 Žodis: vyksta          pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: šeimos         pasikartojo 2 kartus, 4 7 eilutėse 
 Žodis: žodis          pasikartojo 2 kartus, 14 15 eilutėse 
+
+Žodžiai, kurie tekste pasikartoja 3 kartus:
+
+Žodis: bet             pasikartojo 3 kartus, 4 7 15 eilutėse 
+Žodis: Gitanas         pasikartojo 3 kartus, 2 4 6 eilutėse 
+Žodis: jis             pasikartojo 3 kartus, 3 4 7 eilutėse 
+Žodis: Nausėda        pasikartojo 3 kartus, 2 4 6 eilutėse 
+Žodis: tai             pasikartojo 3 kartus, 4 7 eilutėse 
+Žodis: turi            pasikartojo 3 kartus, 4 7 12 eilutėse 
+
+Žodžiai, kurie tekste pasikartoja 4 kartus:
+
+Žodis: būti           pasikartojo 4 kartus, 4 7 eilutėse 
+Žodis: nėra           pasikartojo 4 kartus, 3 4 7 15 eilutėse 
+Žodis: o               pasikartojo 4 kartus, 4 7 13 15 eilutėse 
+Žodis: Prezidento      pasikartojo 4 kartus, 2 3 4 7 eilutėse 
+Žodis: teigė          pasikartojo 4 kartus, 2 3 4 7 eilutėse 
+Žodis: už             pasikartojo 4 kartus, 3 4 6 eilutėse 
+
+Žodžiai, kurie tekste pasikartoja 5 kartus:
+
+--------------------Tokių žodžių nėra, kurie pasikartoja 6 kartus-----------------
+
+Žodžiai, kurie tekste pasikartoja 6 kartus:
+
+--------------------Tokių žodžių nėra, kurie pasikartoja 7 kartus-----------------
+
+Žodžiai, kurie tekste pasikartoja 7 kartus:
+
+Žodis: ir              pasikartojo 7 kartus, 4 7 9 13 15 eilutėse 
+
+Žodžiai, kurie tekste pasikartoja 8 kartus:
+
+--------------------Tokių žodžių nėra, kurie pasikartoja 9 kartus-----------------
+
+Žodžiai, kurie tekste pasikartoja 9 kartus:
+
+Žodis: kad             pasikartojo 9 kartus, 1 3 4 6 7 eilutėse 
+
 
 Rasti URL linkai: 
 http://naujienos.vu.lt/analitine-zurnalistika-aktuali-kaip-niekad-anksciau/, eilutėje: 17

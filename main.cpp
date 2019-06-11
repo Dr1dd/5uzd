@@ -77,15 +77,36 @@ int main(){
         }
 
     std::ofstream fr("rezultatai.txt");
+    int max = 0;
+    for(auto it = zodziai.cbegin(); it != zodziai.cend(); ++it){ // ieskomas max rastu zodziu skaicius
+        if (it->second > max) {
+            max = it->second;
+        }
+    }
     
     auto iterator = numeris.begin();
     int y = 0;
-    for(auto it = zodziai.cbegin(); it != zodziai.cend(); ++it){
-        fr << "Žodis: "  << std::left <<std::setw(15) <<it->first << std::setw(10) << " pasikartojo " << it->second << " kartus, ";
-               for(auto j = 0; j !=numeris[y].eilNr.size(); j++)
-                   fr << numeris[y].eilNr[j]  <<" ";
-        y++;
-            fr<<"eilutėse \n";
+    int start = 2; // pradzia
+    int zodziuSkaicius =0;
+    while(start <= max) {
+        y= 0;
+        zodziuSkaicius = 0;
+        fr << "Žodžiai, kurie tekste pasikartoja " << start << " kartus:" << endl;
+        fr << endl;
+        for (auto it = zodziai.cbegin(); it != zodziai.cend(); ++it) {
+            if(it->second == start){
+                zodziuSkaicius++;
+                fr << "Žodis: " << std::left << std::setw(15) << it->first << std::setw(10) << " pasikartojo " << it->second
+                   << " kartus, ";
+                for (auto j = 0; j != numeris[y].eilNr.size(); j++)
+                    fr << numeris[y].eilNr[j] << " ";
+                fr << "eilutėse \n";
+            }
+            y++;
+        }
+        start++;
+        if(zodziuSkaicius == 0) fr << "--------------------Tokių žodžių nėra, kurie pasikartoja " << start << " kartus-----------------" << endl;
+        fr << endl;
     }
     fr << "\nRasti URL linkai: \n";
 
