@@ -124,21 +124,22 @@ int main(){
     int linesRight = lnsk/2;
     int linesRightConst =lnsk/2;
     int eilIlgis;
-
     while (linesLeft <= linesRightConst && linesLeft <= lnsk) {
             fr1 << linesLeft << " eilutėje esantys žodžiai: ";
             for (auto it = tekstas.cbegin(); it != tekstas.cend(); ++it) {
                 if (tekstas.count(it->first) > 1) {
                     if (it->second == linesLeft) {
                         word = it->first;
-                        eilIlgis += word.length();
-                        if (previous != word) fr1 << word << ", ";
+                        if (previous != word) {
+                            eilIlgis += word.length()+2;
+                            fr1 << word << ", ";
+                        }
                         previous = word;
                     }
                 }
             }
 
-            fr1 << std::right << std::setw(220-eilIlgis+5);
+            fr1 << std::right << std::setw(240-eilIlgis);
                 fr1 <<  linesRight << " eilutėje esantys žodžiai: ";
             for (auto it = tekstas.cbegin(); it != tekstas.cend(); ++it) {
                 if (tekstas.count(it->first) > 1) {
