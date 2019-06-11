@@ -115,26 +115,47 @@ int main(){
     }
     
     fr.close();
-    int lines = 1;
     std::string word;
     std::ofstream fr1("rezultatai2.txt");
     fr1 << "Žodžiai, kurie tekste pasikartoja daugiau nei 1 kartą:" << endl;
     fr1<<endl;
     std::string previous;
-    while(lines <= lnsk) {
-        fr1 << lines << " eilutėje esantys žodžiai: ";
-        for (auto it = tekstas.cbegin(); it != tekstas.cend(); ++it) {
-            if (tekstas.count(it->first) > 1) {
-                if (it->second == lines) {
-                    word = it->first;
-                    if(previous != word) fr1 << word << ", ";
-                    previous = word;
+    int linesLeft = 1;
+    int linesRight = lnsk/2;
+    int linesRightConst =lnsk/2;
+    int eilIlgis;
+
+    while (linesLeft <= linesRightConst && linesLeft <= lnsk) {
+            fr1 << linesLeft << " eilutėje esantys žodžiai: ";
+            for (auto it = tekstas.cbegin(); it != tekstas.cend(); ++it) {
+                if (tekstas.count(it->first) > 1) {
+                    if (it->second == linesLeft) {
+                        word = it->first;
+                        eilIlgis += word.length();
+                        if (previous != word) fr1 << word << ", ";
+                        previous = word;
+                    }
                 }
             }
+
+            fr1 << std::right << std::setw(220-eilIlgis+5);
+                fr1 <<  linesRight << " eilutėje esantys žodžiai: ";
+            for (auto it = tekstas.cbegin(); it != tekstas.cend(); ++it) {
+                if (tekstas.count(it->first) > 1) {
+                    if (it->second == linesRight) {
+                        word = it->first;
+                        if (previous != word) fr1 << word << ", ";
+                        previous = word;
+                    }
+                }
+            }
+
+            linesLeft++;
+            linesRight++;
+            eilIlgis = 0;
+            fr1 << endl;
         }
-        lines++;
-        fr1<< endl;
-    }
+
     fr1.close();
     return 0;
 }
